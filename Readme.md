@@ -1,11 +1,17 @@
 Node.js retry api sample service
+=================================
 
+modules used:
+--------------
 Express.js
 node-fetch
-
-client & server smaple
 
 
 
 To start server :: yarn run startServer
-To run client ::   yarn run startClient
+
+To start client :: yarn run startClient
+
+
+
+To check retry functionality :: stop server & try to run client
